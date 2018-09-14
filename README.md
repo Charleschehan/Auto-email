@@ -1,5 +1,6 @@
 # Auto-email
 Automated emailing using outlook
+written in Python 3.5.5
 v0.1
 Created by Charles H
 
